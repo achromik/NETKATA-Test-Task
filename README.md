@@ -1,4 +1,11 @@
 # NETKATA-test
 
 
-#### Test task for NETKATA. Landing page from PSD layout with some JS
+Tutaj parę moich wczeniejszych prac
+
+[http://aleksanderchromik.pl/portfolio/PhotoTime/](http://aleksanderchromik.pl/portfolio/PhotoTime/)
+
+[http://aleksanderchromik.pl/portfolio/ActiveBox/](http://aleksanderchromik.pl/portfolio/ActiveBox/) 
+
+[http://aleksanderchromik.pl/portfolio/PicturePerfect/](http://aleksanderchromik.pl/portfolio/PicturePerfect/)
+
