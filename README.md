@@ -24,11 +24,20 @@ Do zrobienia:
 
 
 
-Tutaj parę moich wczeniejszych prac
+### Tutaj parę moich wcześniejszych prac
 
-[PhotoTime/](http://aleksanderchromik.pl/portfolio/PhotoTime/)
 
-[ActiveBox/](http://aleksanderchromik.pl/portfolio/ActiveBox/) 
+#### PhotoTime
 
-[PicturePerfect/](http://aleksanderchromik.pl/portfolio/PicturePerfect/)
+[Live preview](http://aleksanderchromik.pl/portfolio/PhotoTime/) 
+[Repo on Github](https://github.com/achromik/PhotoTime)
 
+#### ActiveBox
+
+[Live preview](http://aleksanderchromik.pl/portfolio/ActiveBox/) 
+[Repo on Github](https://github.com/achromik/ActiveBox)
+
+#### PicturePerfect 
+
+[Live preview](http://aleksanderchromik.pl/portfolio/PicturePerfect/)
+[Repo on Github](https://github.com/achromik/PicturePerfectProject)
