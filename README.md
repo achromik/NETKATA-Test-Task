@@ -1,11 +1,13 @@
 # NETKATA-test
 
 
+[Live version] (http://aleksanderchromik.pl/portfolio/netkata/)
+
 Tutaj parę moich wczeniejszych prac
 
-[http://aleksanderchromik.pl/portfolio/PhotoTime/](http://aleksanderchromik.pl/portfolio/PhotoTime/)
+[PhotoTime/](http://aleksanderchromik.pl/portfolio/PhotoTime/)
 
-[http://aleksanderchromik.pl/portfolio/ActiveBox/](http://aleksanderchromik.pl/portfolio/ActiveBox/) 
+[ActiveBox/](http://aleksanderchromik.pl/portfolio/ActiveBox/) 
 
-[http://aleksanderchromik.pl/portfolio/PicturePerfect/](http://aleksanderchromik.pl/portfolio/PicturePerfect/)
+[PicturePerfect/](http://aleksanderchromik.pl/portfolio/PicturePerfect/)
 
