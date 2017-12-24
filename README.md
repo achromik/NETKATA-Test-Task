@@ -1,7 +1,18 @@
 # NETKATA-test
 
 
-[Live version] (http://aleksanderchromik.pl/portfolio/netkata/)
+[Live version] (http://aleksanderchromik.pl/portfolio/netkata/) 
+
+
+Zmiany: 23.12 14:00
+- poprawione sekcje z wklęsłymi bokami.
+- trochę porządków w kodzie
+
+Do zrobienia:
+- [ ] RWD
+- [ ] Sekcje stopki
+
+
 
 Tutaj parę moich wczeniejszych prac
 
